@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "content/blogs/entries/quick-note.html",
+    "href": "content/blogs/entries/quick-note.html",
+    "title": "Quick Note (Markdown)",
+    "section": "",
+    "text": "This file is plain Markdown (.md). Quarto will render it just like .qmd.\n\n\n\nThe same SVG asset is reused here."
+  },
+  {
+    "objectID": "content/papers/entries/transformer-review.html",
+    "href": "content/papers/entries/transformer-review.html",
+    "title": "Paper Review: Attention Is All You Need",
+    "section": "",
+    "text": "Multi-head self-attention replaces recurrence\nPositional encodings preserve order\nResidual connections and layer norms stabilize training"
+  },
+  {
+    "objectID": "content/papers/entries/transformer-review.html#key-ideas",
+    "href": "content/papers/entries/transformer-review.html#key-ideas",
+    "title": "Paper Review: Attention Is All You Need",
+    "section": "",
+    "text": "Multi-head self-attention replaces recurrence\nPositional encodings preserve order\nResidual connections and layer norms stabilize training"
+  },
+  {
+    "objectID": "content/papers/entries/transformer-review.html#notes",
+    "href": "content/papers/entries/transformer-review.html#notes",
+    "title": "Paper Review: Attention Is All You Need",
+    "section": "Notes",
+    "text": "Notes\nThis is a placeholder review. Replace with your full notes."
+  },
+  {
+    "objectID": "content/learning-notes/lesson2/entries/lesson2.html",
+    "href": "content/learning-notes/lesson2/entries/lesson2.html",
+    "title": "lesson2",
+    "section": "",
+    "text": "lesson2."
+  },
+  {
+    "objectID": "content/blogs/entries/hello-quarto.html",
+    "href": "content/blogs/entries/hello-quarto.html",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "This post is written in .qmd and rendered by Quarto.\n\nYou can mix Markdown with code blocks and callouts when needed."
+  },
+  {
+    "objectID": "content/papers/index.html",
+    "href": "content/papers/index.html",
+    "title": "Papers论文",
+    "section": "",
+    "text": "Paper reviews, reading notes, and reproductions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaper Review: Attention Is All You Need\n\n\n\npapers\n\ntransformers\n\n\n\nA concise summary of the Transformer architecture and its key ideas.\n\n\n\n\n\nJan 9, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/learning-notes/lesson2/index.html",
+    "href": "content/learning-notes/lesson2/index.html",
+    "title": "lesson2",
+    "section": "",
+    "text": "lesson2.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlesson2\n\n\n\nlearning-notes\n\nlesson2\n\n\n\nlesson2.\n\n\n\n\n\nJan 7, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/learning-notes/index.html",
+    "href": "content/learning-notes/index.html",
+    "title": "Learning Notes学习笔记",
+    "section": "",
+    "text": "Course notes and long-form study summaries.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlesson1\n\n\n\nlearning-notes\n\nlesson1\n\n\n\nlesson1.\n\n\n\n\n\nJan 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nlesson2\n\n\n\nlearning-notes\n\nlesson2\n\n\n\nlesson2.\n\n\n\n\n\nJan 7, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nlesson3\n\n\n\nlearning-notes\n\nlesson3\n\n\n\nlesson3.\n\n\n\n\n\nJan 6, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/home.html",
+    "href": "pages/home.html",
+    "title": "Home主页",
+    "section": "",
+    "text": "这里是首页，汇总各模块最近更新内容。\n\n\nThis is the home page with the latest updates from each module.\n\n\n\nBlogs博客\n\n\n\n\n\n\n\n\n\n\n\nHello, Quarto\n\n\n\nnotes\n\nquarto\n\n\n\nA short example post written in QMD with an embedded image.\n\n\n\n\n\nJan 12, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuick Note (Markdown)\n\n\n\nnotes\n\n\n\nA Markdown example post rendered by Quarto.\n\n\n\n\n\nJan 11, 2025\n\n\n\n\n\nNo matching items\n\n\n\n\nProjects项目\n\n\n\n\n\n\n\n\n\nProject Template: Retrieval-Augmented QA\n\n\n\nprojects\n\nnlp\n\n\n\nA short template for documenting a project with goals, stack, and results.\n\n\n\n\n\n\nJan 10, 2025\n\n\n\n\n\n\nNo matching items\n\n\n\n\nPapers论文\n\n\n\n\n\n\n\n\n\n\n\nPaper Review: Attention Is All You Need\n\n\n\npapers\n\ntransformers\n\n\n\nA concise summary of the Transformer architecture and its key ideas.\n\n\n\n\n\nJan 9, 2025\n\n\n\n\n\nNo matching items\n\n\n\n\nLearning Notes学习笔记\n\n\n\n\n\n\n\n\n\n\n\nlesson1\n\n\n\nlearning-notes\n\nlesson1\n\n\n\nlesson1.\n\n\n\n\n\nJan 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nlesson2\n\n\n\nlearning-notes\n\nlesson2\n\n\n\nlesson2.\n\n\n\n\n\nJan 7, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nlesson3\n\n\n\nlearning-notes\n\nlesson3\n\n\n\nlesson3.\n\n\n\n\n\nJan 6, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/index.html",
+    "href": "pages/index.html",
+    "title": "About Me关于我",
+    "section": "",
+    "text": "我是 aorangehc，关注 AI 研究与工程落地，习惯用结构化笔记记录学习和项目复盘。\n\n\n开放合作与长期机会欢迎联系：morange0205@gmail.com\n\n\n\n\n\n生成式 AI 与多模态\n\n\nLLM 推理优化与系统化部署\n\n\n论文复现与工程实践\n\n\n\n\n\n\n\n2024 - 2027 [学位/项目] [学校]\n\n\n2020 - 2024 [学位/项目] [学校]\n\n\n\n\n\n\n\n[年份] [岗位] [公司] — [关键职责/成果]\n\n\n\n\n\n\n\n[年份] [项目名称] [一句话描述/亮点] GitHub · Blog\n\n\n\n\n\n\nPython 开发 算法设计 深度学习\n\n\n\n\n\nI am aorangehc, focused on AI research and production-ready engineering. I keep structured notes for learning and project retrospectives.\n\n\nOpen to collaborations and full-time roles: morange0205@gmail.com\n\n\n\n\n\nGenerative AI and multimodal systems\n\n\nLLM inference optimization and deployment\n\n\nPaper reproductions and engineering practice\n\n\n\n\n\n\n\n2024 - 2027 [Program/Degree] [Institution]\n\n\n2020 - 2024 [Program/Degree] [Institution]\n\n\n\n\n\n\n\n[Years] [Role] [Company] — [Impact]\n\n\n\n\n\n\n\n[Years] [Project] [One-line summary] GitHub · Blog\n\n\n\n\n\n\nPython Development Algorithm Design Deep Learning"
+  },
+  {
+    "objectID": "pages/index.html#方向",
+    "href": "pages/index.html#方向",
+    "title": "About Me关于我",
+    "section": "",
+    "text": "生成式 AI 与多模态\n\n\nLLM 推理优化与系统化部署\n\n\n论文复现与工程实践"
+  },
+  {
+    "objectID": "pages/index.html#教育经历",
+    "href": "pages/index.html#教育经历",
+    "title": "About Me关于我",
+    "section": "",
+    "text": "2024 - 2027 [学位/项目] [学校]\n\n\n2020 - 2024 [学位/项目] [学校]"
+  },
+  {
+    "objectID": "pages/index.html#工作经历",
+    "href": "pages/index.html#工作经历",
+    "title": "About Me关于我",
+    "section": "",
+    "text": "[年份] [岗位] [公司] — [关键职责/成果]"
+  },
+  {
+    "objectID": "pages/index.html#项目",
+    "href": "pages/index.html#项目",
+    "title": "About Me关于我",
+    "section": "",
+    "text": "[年份] [项目名称] [一句话描述/亮点] GitHub · Blog"
+  },
+  {
+    "objectID": "pages/index.html#技术栈",
+    "href": "pages/index.html#技术栈",
+    "title": "About Me关于我",
+    "section": "",
+    "text": "Python 开发 算法设计 深度学习"
+  },
+  {
+    "objectID": "pages/index.html#focus",
+    "href": "pages/index.html#focus",
+    "title": "About Me关于我",
+    "section": "",
+    "text": "Generative AI and multimodal systems\n\n\nLLM inference optimization and deployment\n\n\nPaper reproductions and engineering practice"
+  },
+  {
+    "objectID": "pages/index.html#education",
+    "href": "pages/index.html#education",
+    "title": "About Me关于我",
+    "section": "",
+    "text": "2024 - 2027 [Program/Degree] [Institution]\n\n\n2020 - 2024 [Program/Degree] [Institution]"
+  },
+  {
+    "objectID": "pages/index.html#experience",
+    "href": "pages/index.html#experience",
+    "title": "About Me关于我",
+    "section": "",
+    "text": "[Years] [Role] [Company] — [Impact]"
+  },
+  {
+    "objectID": "pages/index.html#projects",
+    "href": "pages/index.html#projects",
+    "title": "About Me关于我",
+    "section": "",
+    "text": "[Years] [Project] [One-line summary] GitHub · Blog"
+  },
+  {
+    "objectID": "pages/index.html#technical-skills",
+    "href": "pages/index.html#technical-skills",
+    "title": "About Me关于我",
+    "section": "",
+    "text": "Python Development Algorithm Design Deep Learning"
+  },
+  {
+    "objectID": "content/blogs/index.html",
+    "href": "content/blogs/index.html",
+    "title": "Blogs博客",
+    "section": "",
+    "text": "Short essays, reviews, and research notes.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello, Quarto\n\n\n\nnotes\n\nquarto\n\n\n\nA short example post written in QMD with an embedded image.\n\n\n\n\n\nJan 12, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuick Note (Markdown)\n\n\n\nnotes\n\n\n\nA Markdown example post rendered by Quarto.\n\n\n\n\n\nJan 11, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/learning-notes/lesson1/index.html",
+    "href": "content/learning-notes/lesson1/index.html",
+    "title": "lesson1",
+    "section": "",
+    "text": "lesson1.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlesson1\n\n\n\nlearning-notes\n\nlesson1\n\n\n\nlesson1.\n\n\n\n\n\nJan 8, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/learning-notes/lesson3/index.html",
+    "href": "content/learning-notes/lesson3/index.html",
+    "title": "lesson3",
+    "section": "",
+    "text": "lesson3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlesson3\n\n\n\nlearning-notes\n\nlesson3\n\n\n\nlesson3.\n\n\n\n\n\nJan 6, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/projects/index.html",
+    "href": "content/projects/index.html",
+    "title": "Projects项目",
+    "section": "",
+    "text": "Project write-ups, demos, and technical summaries.\n\n\n\n\n\n\n\n\n\n\n\n\nProject Template: Retrieval-Augmented QA\n\n\n\nprojects\n\nnlp\n\n\n\nA short template for documenting a project with goals, stack, and results.\n\n\n\n\n\n\nJan 10, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/learning-notes/lesson1/entries/lesson1.html",
+    "href": "content/learning-notes/lesson1/entries/lesson1.html",
+    "title": "lesson1",
+    "section": "",
+    "text": "lesson1"
+  },
+  {
+    "objectID": "content/learning-notes/lesson3/entries/lesson3.html",
+    "href": "content/learning-notes/lesson3/entries/lesson3.html",
+    "title": "lesson3",
+    "section": "",
+    "text": "lesson3."
+  },
+  {
+    "objectID": "content/projects/entries/sample-project.html",
+    "href": "content/projects/entries/sample-project.html",
+    "title": "Project Template: Retrieval-Augmented QA",
+    "section": "",
+    "text": "Build a lightweight RAG pipeline for domain FAQs."
+  },
+  {
+    "objectID": "content/projects/entries/sample-project.html#goal",
+    "href": "content/projects/entries/sample-project.html#goal",
+    "title": "Project Template: Retrieval-Augmented QA",
+    "section": "",
+    "text": "Build a lightweight RAG pipeline for domain FAQs."
+  },
+  {
+    "objectID": "content/projects/entries/sample-project.html#stack",
+    "href": "content/projects/entries/sample-project.html#stack",
+    "title": "Project Template: Retrieval-Augmented QA",
+    "section": "Stack",
+    "text": "Stack\n\nPython, FAISS, and a small embedding model\nFastAPI for serving"
+  },
+  {
+    "objectID": "content/projects/entries/sample-project.html#results",
+    "href": "content/projects/entries/sample-project.html#results",
+    "title": "Project Template: Retrieval-Augmented QA",
+    "section": "Results",
+    "text": "Results\n\nLatency under 200ms on CPU\n~0.82 answer acceptance in internal eval\n\n\n\n\nThe same SVG asset is reused here."
+  }
+]

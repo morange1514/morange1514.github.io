@@ -1,0 +1,59 @@
+[
+  {
+    "listing": "/content/papers/index.html",
+    "items": [
+      "/content/papers/entries/transformer-review.html"
+    ]
+  },
+  {
+    "listing": "/content/learning-notes/lesson2/index.html",
+    "items": [
+      "/content/learning-notes/lesson2/entries/lesson2.html"
+    ]
+  },
+  {
+    "listing": "/content/learning-notes/index.html",
+    "items": [
+      "/content/learning-notes/lesson1/entries/lesson1.html",
+      "/content/learning-notes/lesson2/entries/lesson2.html",
+      "/content/learning-notes/lesson3/entries/lesson3.html"
+    ]
+  },
+  {
+    "listing": "/pages/home.html",
+    "items": [
+      "/content/blogs/entries/hello-quarto.html",
+      "/content/blogs/entries/quick-note.html",
+      "/content/projects/entries/sample-project.html",
+      "/content/papers/entries/transformer-review.html",
+      "/content/learning-notes/lesson1/entries/lesson1.html",
+      "/content/learning-notes/lesson2/entries/lesson2.html",
+      "/content/learning-notes/lesson3/entries/lesson3.html"
+    ]
+  },
+  {
+    "listing": "/content/blogs/index.html",
+    "items": [
+      "/content/blogs/entries/hello-quarto.html",
+      "/content/blogs/entries/quick-note.html"
+    ]
+  },
+  {
+    "listing": "/content/learning-notes/lesson1/index.html",
+    "items": [
+      "/content/learning-notes/lesson1/entries/lesson1.html"
+    ]
+  },
+  {
+    "listing": "/content/learning-notes/lesson3/index.html",
+    "items": [
+      "/content/learning-notes/lesson3/entries/lesson3.html"
+    ]
+  },
+  {
+    "listing": "/content/projects/index.html",
+    "items": [
+      "/content/projects/entries/sample-project.html"
+    ]
+  }
+]
